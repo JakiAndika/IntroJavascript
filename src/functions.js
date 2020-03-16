@@ -30,7 +30,7 @@ const multyply2 = (a, b = 1) => a * b;
 console.log(multyply2(4, 5));
 
 
-// => IIFE --> autorun
+// => IIFE --> autorunb
 (function () {
     console.log('auto execute');
 }());
