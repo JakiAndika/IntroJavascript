@@ -50,7 +50,7 @@ console.log(hobbies);
 
 
 const sum = (a, b, c) => a + b + c;
-const number = [2, 4, 3, 4, 6]
+const number = [2, 4, 3]
 const result = sum(...number)
 console.log(result);
 
